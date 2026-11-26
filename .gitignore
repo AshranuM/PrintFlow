@@ -1,0 +1,8 @@
+# Compiled executables
+*.exe
+
+# Object files
+*.o
+
+# Temporary test output
+tests/out_*.tmp

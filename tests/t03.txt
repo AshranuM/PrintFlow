@@ -1,0 +1,51 @@
+1
+Baseline User
+Baseline Doc
+5
+
+12
+x
+9
+1
+   
+1
+Valid User
+   
+1
+1234567890123456789012345678901
+1
+Valid User
+1234567890123456789012345678901234567890123456789012345678901
+1
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+1
+Valid User
+Valid Doc
+0
+1
+Valid User
+Valid Doc
+-5
+1
+Valid User
+Valid Doc
+501
+1
+Valid User
+Valid Doc
+abc
+1
+Valid User
+Valid Doc
+12abc
+1
+Valid User
+Valid Doc
+99999999999999999999999
+1
+Second User
+Second Doc
+10
+3
+7
+0
